@@ -54,7 +54,8 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,[t
 .mono,.eyebrow,.index-label,.meta-label,.project-number,.status,.toolbar-note,.footer-meta { font-family: var(--app-font-mono); }
 .topbar { height: 76px; display:flex; align-items:center; justify-content:space-between; border-bottom:1px solid var(--line); position:sticky; z-index:20; top:0; background:color-mix(in srgb,var(--paper) 90%,transparent); backdrop-filter:blur(16px); padding-inline:max(40px,calc((100vw - 1392px)/2)); }
 .brand { display:flex; align-items:center; gap:13px; }
-.brand-mark { width:36px;height:36px;background:var(--night);color:#e9e4d7;display:grid;place-items:center;font-size:17px;font-weight:800;letter-spacing:-2px;border-radius:50% 50% 50% 8px; }
+.brand-mark { width:36px;height:36px;display:grid;place-items:center;overflow:hidden;flex:0 0 36px;border-radius:50% 50% 50% 8px;background:var(--night); }
+.brand-logo { width:100%;height:100%;object-fit:cover;object-position:center;display:block; }
 .brand > span:last-child { display:grid;gap:4px; }
 .brand-name { display:block;font-size:12px; font-weight:800; letter-spacing:.14em;line-height:1.1; }
 .brand-sub { display:block;font-size:9px; color:var(--muted); letter-spacing:.18em;line-height:1.1; }
@@ -204,7 +205,7 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,[t
   .wrap { width:calc(100% - 20px); }
   .topbar { height:52px; padding-inline:10px; gap:8px; }
   .brand { gap:7px; flex-shrink:0; }
-  .brand-mark { width:28px; height:28px; font-size:14px; }
+  .brand-mark { width:28px; height:28px; flex-basis:28px; }
   .brand-name { font-size:10px; letter-spacing:.06em; white-space:nowrap; }
   .brand-sub { display:none; }
   .head-count { display:none; }
@@ -714,7 +715,7 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,[t
   .topbar { padding-inline:10px; gap:6px; }
   .brand { min-width:0; gap:7px; }
   .brand > span:last-child { min-width:0; }
-  .brand-mark { flex:0 0 28px; width:28px; height:28px; font-size:13px; }
+  .brand-mark { flex:0 0 28px; width:28px; height:28px; }
   .brand-name { font-size:9px; letter-spacing:.07em; white-space:nowrap; }
   .brand-sub { display:none; }
   .head-tools { gap:4px; }
