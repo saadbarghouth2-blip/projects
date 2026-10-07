@@ -1,0 +1,3344 @@
+[
+  {
+    "id": "modelbuilder",
+    "en": "ArcGIS ModelBuilder Final Assessment",
+    "ar": "اختبار ArcGIS ModelBuilder النهائي",
+    "group": "Education",
+    "sub": "GIS assessment",
+    "desc": "A professional interactive assessment on GIS and spatial analysis with immediate grading.",
+    "arDesc": "اختبار تفاعلي متخصص في ModelBuilder والتحليل المكاني مع تصحيح فوري.",
+    "url": "https://arcgis-modelbuilder-final-exam.ai.studio/",
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [
+      "GIS",
+      "ArcGIS",
+      "Learning"
+    ],
+    "featured": false,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "live",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "albakhira-events",
+    "en": "Albakhira Events Hall",
+    "ar": "قاعة البخيرة للمناسبات",
+    "group": "Business",
+    "sub": "Venue website",
+    "desc": "A visual venue showcase highlighting services and booking information.",
+    "arDesc": "واجهة تعريفية لخدمات قاعة المناسبات ومسارات الحجز.",
+    "url": null,
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [],
+    "featured": false,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "catalog",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "albakhira-content",
+    "en": "Albakhira Digital Content Platform",
+    "ar": "منصة البخيرة للمحتوى الرقمي",
+    "group": "Platforms",
+    "sub": "Digital content",
+    "desc": "A curated interface for displaying and organizing social media content.",
+    "arDesc": "منصة لعرض وتنظيم المحتوى الرقمي بأسلوب واضح وجذاب.",
+    "url": null,
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [],
+    "featured": false,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "catalog",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "academy-live",
+    "en": "Academy Live Learning Platform",
+    "ar": "أكاديمية لايف التعليمية",
+    "group": "Education",
+    "sub": "E-learning",
+    "desc": "Online learning experience centered on lessons, content, and engagement.",
+    "arDesc": "تجربة تعليم إلكتروني للدروس والمحتوى والتفاعل.",
+    "url": null,
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [],
+    "featured": false,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "catalog",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "elite-management",
+    "en": "Elite Business Management",
+    "ar": "نظام إيليت لإدارة الأعمال",
+    "group": "Systems",
+    "sub": "Management system",
+    "desc": "A structured business management interface for everyday information and tasks.",
+    "arDesc": "واجهة نظام لإدارة العمليات والمعلومات اليومية.",
+    "url": null,
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [],
+    "featured": false,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "catalog",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "elite-one",
+    "en": "Elite One",
+    "ar": "إيليت ون",
+    "group": "Business",
+    "sub": "Business website",
+    "desc": "A premium business-facing website focused on a clear brand and service presence.",
+    "arDesc": "موقع أعمال احترافي يعرض الهوية والخدمات.",
+    "url": "https://elite-one-blush.vercel.app/",
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [
+      "Web",
+      "Brand"
+    ],
+    "featured": false,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "live",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "empire-store",
+    "en": "Empire Store",
+    "ar": "متجر إمباير",
+    "group": "Commerce",
+    "sub": "E-commerce",
+    "desc": "A product-led online storefront designed for clear browsing and purchasing.",
+    "arDesc": "متجر إلكتروني يركز على المنتجات وتجربة التصفح والشراء.",
+    "url": null,
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [],
+    "featured": false,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "catalog",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "ai-studio",
+    "en": "AI Services Studio",
+    "ar": "استوديو خدمات الذكاء الاصطناعي",
+    "group": "AI",
+    "sub": "AI services",
+    "desc": "A digital experience for discovering and using AI-oriented services.",
+    "arDesc": "واجهة تفاعلية للتعريف بخدمات تعتمد على الذكاء الاصطناعي.",
+    "url": null,
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [],
+    "featured": false,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "catalog",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "cloud-platform",
+    "en": "Cloud Services Platform",
+    "ar": "منصة الخدمات السحابية",
+    "group": "Platforms",
+    "sub": "Cloud application",
+    "desc": "A flexible, responsive digital application for cloud services.",
+    "arDesc": "منصة مرنة متجاوبة لعرض وتقديم خدمات سحابية.",
+    "url": null,
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [],
+    "featured": false,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "catalog",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "offer-landing",
+    "en": "Special Offer Landing Page",
+    "ar": "صفحة عرض خاص",
+    "group": "Business",
+    "sub": "Landing page",
+    "desc": "A focused promotional page with a clear action and conversion flow.",
+    "arDesc": "صفحة هبوط تسويقية للعرض الخاص واتخاذ الإجراء.",
+    "url": null,
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [],
+    "featured": false,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "catalog",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "kids-maps",
+    "en": "Interactive Maps for Kids",
+    "ar": "خرائط تفاعلية للأطفال",
+    "group": "Education",
+    "sub": "Interactive maps",
+    "desc": "A visual learning journey built around interactive map exploration.",
+    "arDesc": "تجربة تعليمية تفاعلية لاستكشاف الخرائط.",
+    "url": null,
+    "sourceUrl": "https://github.com/SAAD23-lgtm/R",
+    "tags": [],
+    "featured": false,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "catalog",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "teba-store",
+    "en": "Teba Store",
+    "ar": "متجر طيبة",
+    "group": "Commerce",
+    "sub": "E-commerce",
+    "desc": "An accessible storefront organized around clear product discovery.",
+    "arDesc": "متجر منظم لتسهيل عرض وتصفح المنتجات.",
+    "url": null,
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [],
+    "featured": false,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "catalog",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "nemora",
+    "en": "Nemora Printed Apparel",
+    "ar": "ملابس نيمورا المطبوعة",
+    "group": "Commerce",
+    "sub": "Apparel store",
+    "desc": "An apparel storefront presenting printed clothing and a contemporary brand identity.",
+    "arDesc": "متجر ملابس مطبوعة يبرز الهوية والمنتجات بشكل حديث.",
+    "url": null,
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [],
+    "featured": false,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "catalog",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "museum",
+    "en": "Grand Egyptian Museum Experience",
+    "ar": "تجربة المتحف المصري الكبير",
+    "group": "Culture",
+    "sub": "Cultural experience",
+    "desc": "A digital museum-inspired experience combining content with visual storytelling.",
+    "arDesc": "تجربة ثقافية رقمية تمزج المعلومات بالعرض البصري.",
+    "url": null,
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [],
+    "featured": false,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "catalog",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "geoinfo-site",
+    "en": "GeoInformatics GIS",
+    "ar": "موقع جيوانفورماتكس GIS",
+    "group": "GIS",
+    "sub": "GIS website",
+    "desc": "A website representing geographic information systems and remote sensing services.",
+    "arDesc": "موقع لعرض خدمات نظم المعلومات الجغرافية والاستشعار عن بعد.",
+    "url": "https://geo-informatics-for-information-sys-eight.vercel.app/",
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [
+      "GIS",
+      "Remote Sensing",
+      "Web"
+    ],
+    "featured": false,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "live",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "reeq-store",
+    "en": "Reeq Water Store",
+    "ar": "متجر مياه ريق",
+    "group": "Commerce",
+    "sub": "E-commerce",
+    "desc": "A product-focused storefront for a water brand.",
+    "arDesc": "متجر علامة مياه يركز على المنتج والهوية والثقة.",
+    "url": null,
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [],
+    "featured": false,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "catalog",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "mahrous-esraa",
+    "en": "Mahrous & Esraa — Digital Invitation",
+    "ar": "دعوة محروس وإسراء الرقمية",
+    "group": "Business",
+    "sub": "Digital invitation",
+    "desc": "A shareable digital invitation experience with event information and elegant styling.",
+    "arDesc": "دعوة رقمية تفاعلية بمعلومات المناسبة وتفاصيلها.",
+    "url": null,
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [],
+    "featured": false,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "catalog",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "kunuz",
+    "en": "Kunuz Misr Interactive Maps",
+    "ar": "كنوز مصر — خرائط تفاعلية",
+    "group": "Education",
+    "sub": "Learning maps",
+    "desc": "An interactive Egyptian culture and geography exploration experience.",
+    "arDesc": "تجربة تعليمية تستكشف جغرافيا مصر وتراثها بخرائط تفاعلية.",
+    "url": "https://platform-map-1.vercel.app/",
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [
+      "GIS",
+      "Leaflet",
+      "Education"
+    ],
+    "featured": true,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "live",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "kids-dashboard",
+    "en": "Kids Geography Learning Dashboard",
+    "ar": "داشبورد تعليم الجغرافيا للأطفال",
+    "group": "Education",
+    "sub": "Learning dashboard",
+    "desc": "A geography learning portal that organizes lessons, activities, and progress.",
+    "arDesc": "بوابة تعليم جغرافيا تعرض الوحدات والمهام والأنشطة.",
+    "url": "https://dashboard-ana-map-1-4iie.vercel.app/",
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [
+      "Dashboard",
+      "Education"
+    ],
+    "featured": false,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "live",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "learning-journey",
+    "en": "Interactive Learning Journey",
+    "ar": "رحلة التعلم التفاعلية",
+    "group": "Education",
+    "sub": "Interactive learning",
+    "desc": "A guided learning flow organized as a sequence rather than separate pages.",
+    "arDesc": "تجربة تعليم منظمة في رحلة من خطوات تفاعلية.",
+    "url": null,
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [],
+    "featured": false,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "catalog",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "worklog",
+    "en": "WorkLog Time Tracker",
+    "ar": "وورك لوج — تتبع الوقت",
+    "group": "Systems",
+    "sub": "Productivity",
+    "desc": "A lightweight installable time-tracking experience (PWA entry).",
+    "arDesc": "تجربة لتتبع ساعات العمل مع واجهة تثبيت كتطبيق ويب.",
+    "url": "https://time-care-log.lovable.app/install",
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [
+      "PWA",
+      "Time tracking"
+    ],
+    "featured": false,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "live",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "ask-saad",
+    "en": "Ask Saad — GIS AI Assistant",
+    "ar": "اسأل سعد — مساعد GIS",
+    "group": "AI",
+    "sub": "GIS assistant",
+    "desc": "A conversational AI interface oriented toward geographic information systems.",
+    "arDesc": "مساعد ذكي بأسلوب محادثة لموضوعات GIS.",
+    "url": "https://ask-saad-barghouth.lovable.app/",
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [
+      "AI",
+      "GIS"
+    ],
+    "featured": true,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "live",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "startup-landing",
+    "en": "Technology Startup Landing Page",
+    "ar": "صفحة شركة تقنية ناشئة",
+    "group": "Business",
+    "sub": "Technology landing",
+    "desc": "A modern technology-facing landing page focused on vision and innovation.",
+    "arDesc": "صفحة لشركة تقنية ناشئة تعرض الرؤية والابتكار.",
+    "url": null,
+    "sourceUrl": "https://xn--2gbwk.site/projects",
+    "tags": [],
+    "featured": false,
+    "origin": "Notaq",
+    "cover": null,
+    "status": "catalog",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "transport",
+    "en": "Transportation GIS Platform — 78 Apps",
+    "ar": "منصة تطبيقات وزارة النقل — 78 تطبيق",
+    "group": "GIS",
+    "sub": "Multi-application GIS",
+    "desc": "Multi-application transportation GIS platform: 78 apps in the project scope; 42 individually linked applications currently evidenced in the available source presentations.",
+    "arDesc": "منصة تضم 78 تطبيقًا وفق نطاق المشروع، منها 42 تطبيقًا برابط مستقل موثق في ملفات العروض الحالية، مع استكمال حصر الباقي.",
+    "url": "https://transport-platform-apps.vercel.app/",
+    "sourceUrl": null,
+    "tags": [
+      "ArcGIS",
+      "React",
+      "TypeScript",
+      "Dashboards"
+    ],
+    "featured": true,
+    "origin": "GIS",
+    "cover": null,
+    "status": "live",
+    "screenshot": "/screenshots/transport-main.webp",
+    "gallery": [
+      "/screenshots/transport-main.webp",
+      "/screenshots/transport-impact.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Original Ministry of Transport apps presentation: screenshots of web dashboards from the transport platform.",
+      "source": "provided_project_evidence"
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "smart-infra",
+    "en": "Smart Cities & Infrastructure Networks",
+    "ar": "شبكات المرافق والمدن الذكية",
+    "group": "GIS",
+    "sub": "Infrastructure networks",
+    "desc": "Utility and infrastructure mapping, network views and operational geospatial dashboards.",
+    "arDesc": "عرض شبكات المرافق والبنية التحتية وخرائط المدن ولوحات المتابعة.",
+    "url": "https://geoinformatics-smart-infrastructure.ai.studio/",
+    "sourceUrl": null,
+    "tags": [
+      "ArcGIS",
+      "Utilities",
+      "Dashboards"
+    ],
+    "featured": true,
+    "origin": "GIS",
+    "cover": null,
+    "status": "live",
+    "screenshot": "/screenshots/smart-infra-overview.webp",
+    "gallery": [
+      "/screenshots/smart-infra-overview.webp",
+      "/screenshots/infrastructure-water-farms.webp",
+      "/screenshots/infrastructure-road-progress.webp",
+      "/screenshots/infrastructure-water-15may.webp",
+      "/screenshots/smart-infra-main.webp",
+      "/screenshots/smart-infra-field.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Actual network applications: user-provided 29 Sept screenshots (water and roads) and infrastructure demonstration presentation.",
+      "source": "provided_project_evidence"
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "ainsijam",
+    "en": "Ain Sijam — Real Estate Intelligence",
+    "ar": "عين سيجام — التحليل العقاري الذكي",
+    "group": "GIS",
+    "sub": "Real estate intelligence",
+    "desc": "Real-estate intelligence platform featuring interactive mapping, location context and analytical views.",
+    "arDesc": "منصة تحليل عقاري بخرائط ومؤشرات ورؤى مكانية تفاعلية.",
+    "url": "https://ain-sijam-real-estate.vercel.app/",
+    "sourceUrl": null,
+    "tags": [
+      "Maps",
+      "Real Estate",
+      "Data"
+    ],
+    "featured": true,
+    "origin": "GIS",
+    "cover": null,
+    "status": "live",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "redsea",
+    "en": "Red Sea Global — GIS Monitoring",
+    "ar": "البحر الأحمر — منصة الرصد الجغرافي",
+    "group": "GIS",
+    "sub": "Environmental analytics",
+    "desc": "A geospatial monitoring and dashboard experience for environmental and development-related indicators.",
+    "arDesc": "تجربة خرائط ولوحات رصد لمؤشرات بيئية وتنموية.",
+    "url": "https://rsgis.vercel.app/",
+    "sourceUrl": null,
+    "tags": [
+      "GIS",
+      "Dashboards",
+      "Environment"
+    ],
+    "featured": true,
+    "origin": "GIS",
+    "cover": null,
+    "status": "live",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "riqportal",
+    "en": "REEQ — Smart Water Management Portal",
+    "ar": "نظام ريق لإدارة المياه الذكي",
+    "group": "Platforms",
+    "sub": "Water portal",
+    "desc": "A digital portal for water-focused operations and business workflows.",
+    "arDesc": "بوابة رقمية لإدارة العمليات وخدمات المياه.",
+    "url": "https://riqportal.ai.studio/",
+    "sourceUrl": "https://riqportal.ai.studio/",
+    "tags": [
+      "Portal",
+      "Web"
+    ],
+    "featured": false,
+    "origin": "Web",
+    "cover": null,
+    "status": "live",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "portfolio",
+    "en": "Saad Barghouth — Portfolio",
+    "ar": "الموقع الشخصي لسعد برغوث",
+    "group": "Business",
+    "sub": "Personal site",
+    "desc": "Professional portfolio showing geospatial, frontend and application experience.",
+    "arDesc": "الموقع الشخصي لأعمال GIS وتطوير الويب.",
+    "url": "https://www.barghouth.me/",
+    "sourceUrl": null,
+    "tags": [
+      "Portfolio",
+      "Web"
+    ],
+    "featured": false,
+    "origin": "Web",
+    "cover": null,
+    "status": "live",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "damietta",
+    "en": "Damietta Port — Enterprise Geodatabase",
+    "ar": "ميناء دمياط — تصميم قاعدة البيانات الجغرافية",
+    "group": "GIS",
+    "sub": "Enterprise GIS",
+    "desc": "Geodatabase schema with datasets, domains, subtypes, relationship classes and automated quality rules.",
+    "arDesc": "تصميم قاعدة بيانات مكانية تشمل مجموعات البيانات والدومينات والأنواع الفرعية والعلاقات وقواعد الجودة.",
+    "url": null,
+    "sourceUrl": null,
+    "tags": [
+      "ArcGIS Pro",
+      "ArcPy",
+      "Geodatabase"
+    ],
+    "featured": false,
+    "origin": "GIS",
+    "cover": null,
+    "status": "case",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "qgis-editing",
+    "en": "QGIS + PostGIS Collaborative Editing",
+    "ar": "حوكمة تحرير البيانات في QGIS وPostGIS",
+    "group": "GIS",
+    "sub": "Editing governance",
+    "desc": "Multi-user edit governance concept and implementation workflows: roles, locks, audit trails, submission and review.",
+    "arDesc": "نظام حوكمة للتحرير متعدد المستخدمين مع قفل المعالم وسجل التعديلات والاعتماد والمراجعة.",
+    "url": null,
+    "sourceUrl": null,
+    "tags": [
+      "PostGIS",
+      "QGIS",
+      "SQL",
+      "Plugin"
+    ],
+    "featured": false,
+    "origin": "GIS",
+    "cover": null,
+    "status": "case",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "survey123",
+    "en": "Survey123 Field Survey Program",
+    "ar": "منظومة المسوحات الميدانية Survey123",
+    "group": "GIS",
+    "sub": "Field operations",
+    "desc": "Mobile field-survey forms and related GIS workflows for infrastructure and sector studies.",
+    "arDesc": "نماذج جمع بيانات ميدانية وتدفقات عمل GIS لقطاعات متعددة.",
+    "url": null,
+    "sourceUrl": null,
+    "tags": [
+      "Survey123",
+      "ArcGIS",
+      "XLSForm"
+    ],
+    "featured": false,
+    "origin": "GIS",
+    "cover": null,
+    "status": "case",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "metro",
+    "en": "Metro Line 3 Survey Applications",
+    "ar": "استبيانات الخط الثالث للمترو",
+    "group": "GIS",
+    "sub": "Field surveys",
+    "desc": "Resident, rider, and commercial field surveys with location, station and conditional survey flows.",
+    "arDesc": "استبيانات لسكان ومستخدمي المترو والأنشطة التجارية بضوابط منطقية ومكانية.",
+    "url": null,
+    "sourceUrl": null,
+    "tags": [
+      "Survey123",
+      "Field GIS"
+    ],
+    "featured": false,
+    "origin": "GIS",
+    "cover": null,
+    "status": "case",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "ports",
+    "en": "Seaport Survey Workflows",
+    "ar": "أعمال مسح الموانئ البحرية",
+    "group": "GIS",
+    "sub": "Seaport data",
+    "desc": "Structured field data collection and quality workflows for port facilities and supporting studies.",
+    "arDesc": "نماذج أعمال رفع وتوثيق بيانات الموانئ والتحقق من جودتها.",
+    "url": null,
+    "sourceUrl": null,
+    "tags": [
+      "GIS",
+      "Data Collection"
+    ],
+    "featured": false,
+    "origin": "GIS",
+    "cover": null,
+    "status": "case",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "timesheet",
+    "en": "Team Timesheet & Analytics Dashboard",
+    "ar": "لوحة ساعات عمل الفريق والتحليلات",
+    "group": "Dashboards",
+    "sub": "Operations analytics",
+    "desc": "React-based records, team metrics, working hours, filters, export and reporting dashboards.",
+    "arDesc": "لوحة لإدارة سجلات العمل ومؤشرات الفريق والفلاتر والتقارير.",
+    "url": null,
+    "sourceUrl": null,
+    "tags": [
+      "React",
+      "TypeScript",
+      "CSV"
+    ],
+    "featured": false,
+    "origin": "Web",
+    "cover": null,
+    "status": "case",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "geohr",
+    "en": "Geo Geomatics HR & Operations System",
+    "ar": "نظام الموارد البشرية والعمليات — جيو جيوماتكس",
+    "group": "Systems",
+    "sub": "System concept",
+    "desc": "A proposed internal platform for roles, tasks, attendance, leave, workflows and employee KPIs.",
+    "arDesc": "تصور نظام داخلي للمهام والصلاحيات والحضور والإجازات ومؤشرات الأداء.",
+    "url": null,
+    "sourceUrl": "https://github.com/SAAD23-lgtm/React-HR-Platform-GeoInformatics",
+    "tags": [
+      "React",
+      "Bilingual",
+      "Automation"
+    ],
+    "featured": false,
+    "origin": "Concept",
+    "cover": null,
+    "status": "case",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "gis-automator",
+    "en": "ArcPy Geodatabase Automation",
+    "ar": "أتمتة إنشاء الجيوداتابيز باستخدام ArcPy",
+    "group": "GIS",
+    "sub": "GIS automation",
+    "desc": "Automated GIS data structure setup with fields, domains, subtypes and repeatable geoprocessing.",
+    "arDesc": "أتمتة إنشاء قواعد البيانات ومجموعات الطبقات والحقول والدومينات.",
+    "url": null,
+    "sourceUrl": null,
+    "tags": [
+      "ArcPy",
+      "ModelBuilder",
+      "ArcGIS Pro"
+    ],
+    "featured": false,
+    "origin": "GIS",
+    "cover": null,
+    "status": "case",
+    "screenshot": "/screenshots/gis-automator-main.webp",
+    "gallery": [
+      "/screenshots/gis-automator-main.webp",
+      "/screenshots/gis-automator-steps.webp",
+      "/screenshots/gis-automator-run.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "ModelBuilder source evidence from geodatabase automation GIS tool diagrams and execution results.",
+      "source": "provided_project_evidence"
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "geojson-data",
+    "en": "Multi-City GeoJSON Data Conversion",
+    "ar": "تحويل بيانات المدن إلى GeoJSON",
+    "group": "GIS",
+    "sub": "Spatial data",
+    "desc": "Conversion of multi-layer GIS datasets into GeoJSON for TypeScript and web mapping.",
+    "arDesc": "تحويل طبقات GIS لعدة مدن إلى GeoJSON لاستخدامها في تطبيقات TypeScript.",
+    "url": null,
+    "sourceUrl": null,
+    "tags": [
+      "GeoJSON",
+      "GIS",
+      "TypeScript"
+    ],
+    "featured": false,
+    "origin": "GIS",
+    "cover": null,
+    "status": "case",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "evidence": "No exact inside-the-project screenshot verified in accessible materials.",
+      "source": null
+    },
+    "catalogEvidence": {
+      "kind": "original_project_inventory",
+      "source": "Notaq gallery or user project reference"
+    }
+  },
+  {
+    "id": "transport-dashboard-5c855c890c",
+    "en": "Urban Land Dashboard — Western Upper Egypt",
+    "ar": "لوحة مؤشرات الأراضي العمرانية – طريق الصعيد الغربي",
+    "group": "Dashboards",
+    "sub": "Dashboard · Western Upper Egypt",
+    "desc": "Road development, land use and planning dashboard for Western Upper Egypt.",
+    "arDesc": "لوحة مؤشرات الأراضي العمرانية — طريق الصعيد الغربي، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-5c855c890c/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Western Upper Egypt",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Western Upper Egypt",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-5c855c890c.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-5c855c890c.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات الأراضي العمرانية – طريق الصعيد الغربي in slide 8 of تطبيقات_منصة_وزارة_النقل.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل.pptx",
+      "slide": 8
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-5c855c890c",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-4236f7c912",
+    "en": "Agriculture & Industry Dashboard — Western Upper Egypt",
+    "ar": "لوحة مؤشرات الأراضي الزراعية والصناعية – طريق الصعيد الغربي",
+    "group": "Dashboards",
+    "sub": "Dashboard · Western Upper Egypt",
+    "desc": "Road development, land use and planning dashboard for Western Upper Egypt.",
+    "arDesc": "لوحة مؤشرات الأراضي الزراعية والصناعية — طريق الصعيد الغربي، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-4236f7c912/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Western Upper Egypt",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Western Upper Egypt",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-4236f7c912.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-4236f7c912.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات الأراضي الزراعية والصناعية – طريق الصعيد الغربي in slide 9 of تطبيقات_منصة_وزارة_النقل.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل.pptx",
+      "slide": 9
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-4236f7c912",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-49446055c2",
+    "en": "Land Prices Dashboard — Western Upper Egypt",
+    "ar": "لوحة مؤشرات أسعار الأراضي – طريق الصعيد الغربي",
+    "group": "Dashboards",
+    "sub": "Dashboard · Western Upper Egypt",
+    "desc": "Road development, land use and planning dashboard for Western Upper Egypt.",
+    "arDesc": "لوحة مؤشرات أسعار الأراضي — طريق الصعيد الغربي، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-49446055c2/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Western Upper Egypt",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Western Upper Egypt",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-49446055c2.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-49446055c2.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات أسعار الأراضي – طريق الصعيد الغربي in slide 11 of تطبيقات_منصة_وزارة_النقل.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل.pptx",
+      "slide": 11
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-49446055c2",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-storymap-92d2a80d7f",
+    "en": "Interactive StoryMap — Western Upper Egypt",
+    "ar": "القصة المكانية – طريق الصعيد الغربي",
+    "group": "GIS",
+    "sub": "StoryMap · Western Upper Egypt",
+    "desc": "Interactive spatial story and land-use change presentation for Western Upper Egypt.",
+    "arDesc": "القصة المكانية — طريق الصعيد الغربي، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/storymap-92d2a80d7f/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Western Upper Egypt",
+      "StoryMap",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Western Upper Egypt",
+    "cover": null,
+    "screenshot": "/screenshots/transport-storymap-92d2a80d7f.webp",
+    "gallery": [
+      "/screenshots/transport-storymap-92d2a80d7f.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled القصة المكانية – طريق الصعيد الغربي in slide 6 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 6
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx"
+      ],
+      "slug": "storymap-92d2a80d7f",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-ismailia-urban",
+    "en": "Urban Land Dashboard — Cairo–Ismailia",
+    "ar": "لوحة مؤشرات الأراضي العمرانية – طريق القاهرة–الإسماعيلية",
+    "group": "Dashboards",
+    "sub": "Dashboard · Cairo–Ismailia",
+    "desc": "Road development, land use and planning dashboard for Cairo–Ismailia.",
+    "arDesc": "لوحة مؤشرات الأراضي العمرانية — طريق القاهرة—الإسماعيلية، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-ismailia-urban/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Cairo–Ismailia",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Cairo–Ismailia",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-ismailia-urban.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-ismailia-urban.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات الأراضي العمرانية – طريق القاهرة–الإسماعيلية in slide 3 of تطبيقات_منصة_وزارة_النقل.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل.pptx",
+      "slide": 3
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-ismailia-urban",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-ismailia-development-impact",
+    "en": "Development Impact Dashboard — Cairo–Ismailia",
+    "ar": "لوحة الأثر التنموي للجزء المطور – طريق القاهرة–الإسماعيلية",
+    "group": "Dashboards",
+    "sub": "Dashboard · Cairo–Ismailia",
+    "desc": "Road development, land use and planning dashboard for Cairo–Ismailia.",
+    "arDesc": "لوحة الأثر التنموي للجزء المطور — طريق القاهرة—الإسماعيلية، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-ismailia-development-impact/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Cairo–Ismailia",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Cairo–Ismailia",
+    "cover": null,
+    "screenshot": "/screenshots/cairo-impact-main.webp",
+    "gallery": [
+      "/screenshots/cairo-impact-main.webp",
+      "/screenshots/transport-dashboard-ismailia-development-impact.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Cairo–Ismailia development dashboard embedded screenshots from the project-specific ministry transport presentation.",
+      "source": "transport_presentation"
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-ismailia-development-impact",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-ismailia-agriculture",
+    "en": "Agriculture & Industry Dashboard — Cairo–Ismailia",
+    "ar": "لوحة مؤشرات الأراضي الزراعية والصناعية – طريق القاهرة–الإسماعيلية",
+    "group": "Dashboards",
+    "sub": "Dashboard · Cairo–Ismailia",
+    "desc": "Road development, land use and planning dashboard for Cairo–Ismailia.",
+    "arDesc": "لوحة مؤشرات الأراضي الزراعية والصناعية — طريق القاهرة—الإسماعيلية، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-ismailia-agriculture/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Cairo–Ismailia",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Cairo–Ismailia",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-ismailia-agriculture.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-ismailia-agriculture.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات الأراضي الزراعية والصناعية – طريق القاهرة–الإسماعيلية in slide 4 of تطبيقات_منصة_وزارة_النقل.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل.pptx",
+      "slide": 4
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-ismailia-agriculture",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-ismailia-prices",
+    "en": "Land Prices Dashboard — Cairo–Ismailia",
+    "ar": "لوحة مؤشرات أسعار الأراضي – طريق القاهرة–الإسماعيلية",
+    "group": "Dashboards",
+    "sub": "Dashboard · Cairo–Ismailia",
+    "desc": "Road development, land use and planning dashboard for Cairo–Ismailia.",
+    "arDesc": "لوحة مؤشرات أسعار الأراضي — طريق القاهرة—الإسماعيلية، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-ismailia-prices/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Cairo–Ismailia",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Cairo–Ismailia",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-ismailia-prices.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-ismailia-prices.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات أسعار الأراضي – طريق القاهرة–الإسماعيلية in slide 6 of تطبيقات_منصة_وزارة_النقل.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل.pptx",
+      "slide": 6
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-ismailia-prices",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-storymap-ismailia",
+    "en": "Interactive StoryMap — Cairo–Ismailia",
+    "ar": "القصة المكانية التفاعلية – طريق القاهرة–الإسماعيلية",
+    "group": "GIS",
+    "sub": "StoryMap · Cairo–Ismailia",
+    "desc": "Interactive spatial story and land-use change presentation for Cairo–Ismailia.",
+    "arDesc": "القصة المكانية التفاعلية — طريق القاهرة—الإسماعيلية، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/storymap-ismailia/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Cairo–Ismailia",
+      "StoryMap",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Cairo–Ismailia",
+    "cover": null,
+    "screenshot": "/screenshots/transport-storymap-ismailia.webp",
+    "gallery": [
+      "/screenshots/transport-storymap-ismailia.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled القصة المكانية التفاعلية – طريق القاهرة–الإسماعيلية in slide 12 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 12
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx"
+      ],
+      "slug": "storymap-ismailia",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-686d8234e8",
+    "en": "Urban Land Dashboard — Cairo–Suez",
+    "ar": "لوحة مؤشرات الأراضي العمرانية – طريق القاهرة - السويس الصحراوي",
+    "group": "Dashboards",
+    "sub": "Dashboard · Cairo–Suez",
+    "desc": "Road development, land use and planning dashboard for Cairo–Suez.",
+    "arDesc": "لوحة مؤشرات الأراضي العمرانية — طريق القاهرة - السويس الصحراوي، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-686d8234e8/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Cairo–Suez",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Cairo–Suez",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-686d8234e8.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-686d8234e8.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات الأراضي العمرانية – طريق القاهرة - السويس الصحراوي in slide 14 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 14
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx"
+      ],
+      "slug": "dashboard-686d8234e8",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-8a75afd782",
+    "en": "Agriculture & Industry Dashboard — Cairo–Suez",
+    "ar": "لوحة مؤشرات الأراضي الزراعية والصناعية – طريق القاهرة - السويس الصحراوي",
+    "group": "Dashboards",
+    "sub": "Dashboard · Cairo–Suez",
+    "desc": "Road development, land use and planning dashboard for Cairo–Suez.",
+    "arDesc": "لوحة مؤشرات الأراضي الزراعية والصناعية — طريق القاهرة - السويس الصحراوي، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-8a75afd782/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Cairo–Suez",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Cairo–Suez",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-8a75afd782.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-8a75afd782.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات الأراضي الزراعية والصناعية – طريق القاهرة - السويس الصحراوي in slide 15 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 15
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx"
+      ],
+      "slug": "dashboard-8a75afd782",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-4b4547b902",
+    "en": "Land Prices Dashboard — Cairo–Suez",
+    "ar": "لوحة مؤشرات أسعار الأراضي – طريق القاهرة - السويس الصحراوي",
+    "group": "Dashboards",
+    "sub": "Dashboard · Cairo–Suez",
+    "desc": "Road development, land use and planning dashboard for Cairo–Suez.",
+    "arDesc": "لوحة مؤشرات أسعار الأراضي — طريق القاهرة - السويس الصحراوي، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-4b4547b902/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Cairo–Suez",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Cairo–Suez",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-4b4547b902.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-4b4547b902.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات أسعار الأراضي – طريق القاهرة - السويس الصحراوي in slide 16 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 16
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx"
+      ],
+      "slug": "dashboard-4b4547b902",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-storymap-739c03527e",
+    "en": "Interactive StoryMap — Cairo–Suez",
+    "ar": "القصة المكانية – طريق القاهرة - السويس الصحراوي - (السويس الحر)",
+    "group": "GIS",
+    "sub": "StoryMap · Cairo–Suez",
+    "desc": "Interactive spatial story and land-use change presentation for Cairo–Suez.",
+    "arDesc": "القصة المكانية — طريق القاهرة - السويس الصحراوي - (السويس الحر)، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/storymap-739c03527e/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Cairo–Suez",
+      "StoryMap",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Cairo–Suez",
+    "cover": null,
+    "screenshot": "/screenshots/transport-storymap-739c03527e.webp",
+    "gallery": [
+      "/screenshots/transport-storymap-739c03527e.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled القصة المكانية – طريق القاهرة - السويس الصحراوي - (السويس الحر) in slide 17 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 17
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx"
+      ],
+      "slug": "storymap-739c03527e",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-ab7611e2f4",
+    "en": "Urban Land Dashboard — Eastern Regional Ring Road",
+    "ar": "لوحة مؤشرات الأراضي العمرانية – القوس الشرقي للطريق الدائري الإقليمي وخط الروبيكي",
+    "group": "Dashboards",
+    "sub": "Dashboard · Eastern Regional Ring Road",
+    "desc": "Road development, land use and planning dashboard for Eastern Regional Ring Road.",
+    "arDesc": "لوحة مؤشرات الأراضي العمرانية — القوس الشرقي للطريق الدائري الإقليمي وخط الروبيكي، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-ab7611e2f4/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Eastern Regional Ring Road",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Eastern Regional Ring Road",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-ab7611e2f4.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-ab7611e2f4.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات الأراضي العمرانية – القوس الشرقي للطريق الدائري الإقليمي وخط الروبيكي in slide 13 of تطبيقات_منصة_وزارة_النقل.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل.pptx",
+      "slide": 13
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-ab7611e2f4",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-b99ee8d8fc",
+    "en": "Agriculture & Industry Dashboard — Eastern Regional Ring Road",
+    "ar": "لوحة مؤشرات الأراضي الزراعية والصناعية – القوس الشرقي للطريق الدائري الإقليمي وخط الروبيكي",
+    "group": "Dashboards",
+    "sub": "Dashboard · Eastern Regional Ring Road",
+    "desc": "Road development, land use and planning dashboard for Eastern Regional Ring Road.",
+    "arDesc": "لوحة مؤشرات الأراضي الزراعية والصناعية — القوس الشرقي للطريق الدائري الإقليمي وخط الروبيكي، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-b99ee8d8fc/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Eastern Regional Ring Road",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Eastern Regional Ring Road",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-b99ee8d8fc.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-b99ee8d8fc.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات الأراضي الزراعية والصناعية – القوس الشرقي للطريق الدائري الإقليمي وخط الروبيكي in slide 14 of تطبيقات_منصة_وزارة_النقل.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل.pptx",
+      "slide": 14
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-b99ee8d8fc",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-04811fcd6f",
+    "en": "Land Prices Dashboard — Eastern Regional Ring Road",
+    "ar": "لوحة مؤشرات أسعار الأراضي – القوس الشرقي للطريق الدائري الإقليمي وخط الروبيكي",
+    "group": "Dashboards",
+    "sub": "Dashboard · Eastern Regional Ring Road",
+    "desc": "Road development, land use and planning dashboard for Eastern Regional Ring Road.",
+    "arDesc": "لوحة مؤشرات أسعار الأراضي — القوس الشرقي للطريق الدائري الإقليمي وخط الروبيكي، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-04811fcd6f/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Eastern Regional Ring Road",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Eastern Regional Ring Road",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-04811fcd6f.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-04811fcd6f.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات أسعار الأراضي – القوس الشرقي للطريق الدائري الإقليمي وخط الروبيكي in slide 16 of تطبيقات_منصة_وزارة_النقل.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل.pptx",
+      "slide": 16
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-04811fcd6f",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-storymap-3678b8faa7",
+    "en": "Interactive StoryMap — Eastern Regional Ring Road",
+    "ar": "القصة المكانية – منطقة الدراسة القوس الشرقى للدائرى الأقليمى و خط الروبيكى",
+    "group": "GIS",
+    "sub": "StoryMap · Eastern Regional Ring Road",
+    "desc": "Interactive spatial story and land-use change presentation for Eastern Regional Ring Road.",
+    "arDesc": "القصة المكانية — منطقة الدراسة القوس الشرقى للدائرى الأقليمى و خط الروبيكى، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/storymap-3678b8faa7/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Eastern Regional Ring Road",
+      "StoryMap",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Eastern Regional Ring Road",
+    "cover": null,
+    "screenshot": "/screenshots/transport-storymap-3678b8faa7.webp",
+    "gallery": [
+      "/screenshots/transport-storymap-3678b8faa7.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled القصة المكانية – منطقة الدراسة القوس الشرقى للدائرى الأقليمى و خط الروبيكى in slide 22 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 22
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx"
+      ],
+      "slug": "storymap-3678b8faa7",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-064fecc5d9",
+    "en": "Urban Land Dashboard — Kalabsha",
+    "ar": "لوحة مؤشرات الأراضي العمرانية – طريق كلابشة",
+    "group": "Dashboards",
+    "sub": "Dashboard · Kalabsha",
+    "desc": "Road development, land use and planning dashboard for Kalabsha.",
+    "arDesc": "لوحة مؤشرات الأراضي العمرانية — طريق كلابشة، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-064fecc5d9/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Kalabsha",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Kalabsha",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-064fecc5d9.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-064fecc5d9.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات الأراضي العمرانية – طريق كلابشة in slide 24 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 24
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-064fecc5d9",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-989c5ff2f9",
+    "en": "Agriculture Dashboard — Kalabsha",
+    "ar": "لوحة مؤشرات الأراضي الزراعية – طريق كلابشة",
+    "group": "Dashboards",
+    "sub": "Dashboard · Kalabsha",
+    "desc": "Road development, land use and planning dashboard for Kalabsha.",
+    "arDesc": "لوحة مؤشرات الأراضي الزراعية — طريق كلابشة، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-989c5ff2f9/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Kalabsha",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Kalabsha",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-989c5ff2f9.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-989c5ff2f9.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات الأراضي الزراعية – طريق كلابشة in slide 25 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 25
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-989c5ff2f9",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-2529bc0ae6",
+    "en": "Land Prices Dashboard — Kalabsha",
+    "ar": "لوحة مؤشرات أسعار الأراضي – طريق كلابشة",
+    "group": "Dashboards",
+    "sub": "Dashboard · Kalabsha",
+    "desc": "Road development, land use and planning dashboard for Kalabsha.",
+    "arDesc": "لوحة مؤشرات أسعار الأراضي — طريق كلابشة، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-2529bc0ae6/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Kalabsha",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Kalabsha",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-2529bc0ae6.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-2529bc0ae6.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات أسعار الأراضي – طريق كلابشة in slide 26 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 26
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-2529bc0ae6",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-storymap-3c8f04f4d0",
+    "en": "Land-Use Change StoryMap — Kalabsha",
+    "ar": "تطور الاراضي المحيطة بطريق كلابشة",
+    "group": "GIS",
+    "sub": "StoryMap · Kalabsha",
+    "desc": "Interactive spatial story and land-use change presentation for Kalabsha.",
+    "arDesc": "تطور الاراضي المحيطة بطريق كلابشة، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/storymap-3c8f04f4d0/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Kalabsha",
+      "StoryMap",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Kalabsha",
+    "cover": null,
+    "screenshot": "/screenshots/transport-storymap-3c8f04f4d0.webp",
+    "gallery": [
+      "/screenshots/transport-storymap-3c8f04f4d0.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled تطور الاراضي المحيطة بطريق كلابشة in slide 27 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 27
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx"
+      ],
+      "slug": "storymap-3c8f04f4d0",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-1cb1e42f43",
+    "en": "Urban Land Dashboard — South Dahshur",
+    "ar": "لوحة مؤشرات الأراضي العمرانية – وصلة دهشور الجنوبية",
+    "group": "Dashboards",
+    "sub": "Dashboard · South Dahshur",
+    "desc": "Road development, land use and planning dashboard for South Dahshur.",
+    "arDesc": "لوحة مؤشرات الأراضي العمرانية — وصلة دهشور الجنوبية، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-1cb1e42f43/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "South Dahshur",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "South Dahshur",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-1cb1e42f43.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-1cb1e42f43.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات الأراضي العمرانية – وصلة دهشور الجنوبية in slide 29 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 29
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx"
+      ],
+      "slug": "dashboard-1cb1e42f43",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-97daea1db8",
+    "en": "Agriculture & Industry Dashboard — South Dahshur",
+    "ar": "لوحة مؤشرات الأراضي الزراعية والصناعية – وصلة دهشور الجنوبية",
+    "group": "Dashboards",
+    "sub": "Dashboard · South Dahshur",
+    "desc": "Road development, land use and planning dashboard for South Dahshur.",
+    "arDesc": "لوحة مؤشرات الأراضي الزراعية والصناعية — وصلة دهشور الجنوبية، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-97daea1db8/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "South Dahshur",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "South Dahshur",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-97daea1db8.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-97daea1db8.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات الأراضي الزراعية والصناعية – وصلة دهشور الجنوبية in slide 30 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 30
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx"
+      ],
+      "slug": "dashboard-97daea1db8",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-687e564801",
+    "en": "Land Prices Dashboard — South Dahshur",
+    "ar": "لوحة مؤشرات أسعار الأراضي – وصلة دهشور الجنوبية",
+    "group": "Dashboards",
+    "sub": "Dashboard · South Dahshur",
+    "desc": "Road development, land use and planning dashboard for South Dahshur.",
+    "arDesc": "لوحة مؤشرات أسعار الأراضي — وصلة دهشور الجنوبية، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-687e564801/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "South Dahshur",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "South Dahshur",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-687e564801.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-687e564801.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات أسعار الأراضي – وصلة دهشور الجنوبية in slide 31 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 31
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx"
+      ],
+      "slug": "dashboard-687e564801",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-storymap-dahshur",
+    "en": "Interactive StoryMap — South Dahshur",
+    "ar": "القصة المكانية التفاعلية – وصلة دهشور الجنوبية",
+    "group": "GIS",
+    "sub": "StoryMap · South Dahshur",
+    "desc": "Interactive spatial story and land-use change presentation for South Dahshur.",
+    "arDesc": "القصة المكانية التفاعلية — وصلة دهشور الجنوبية، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/storymap-dahshur/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "South Dahshur",
+      "StoryMap",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "South Dahshur",
+    "cover": null,
+    "screenshot": "/screenshots/transport-storymap-dahshur.webp",
+    "gallery": [
+      "/screenshots/transport-storymap-dahshur.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled القصة المكانية التفاعلية – وصلة دهشور الجنوبية in slide 32 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 32
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx"
+      ],
+      "slug": "storymap-dahshur",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-3e59ea73ec",
+    "en": "Urban Land Dashboard — Qus",
+    "ar": "لوحة مؤشرات الأراضي العمرانية – طريق قوص",
+    "group": "Dashboards",
+    "sub": "Dashboard · Qus",
+    "desc": "Road development, land use and planning dashboard for Qus.",
+    "arDesc": "لوحة مؤشرات الأراضي العمرانية — طريق قوص، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-3e59ea73ec/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Qus",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Qus",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-3e59ea73ec.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-3e59ea73ec.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات الأراضي العمرانية – طريق قوص in slide 18 of تطبيقات_منصة_وزارة_النقل.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل.pptx",
+      "slide": 18
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-3e59ea73ec",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-5a3aaa3b3a",
+    "en": "Agriculture & Industry Dashboard — Qus",
+    "ar": "لوحة مؤشرات الأراضي الزراعية والصناعية – طريق قوص",
+    "group": "Dashboards",
+    "sub": "Dashboard · Qus",
+    "desc": "Road development, land use and planning dashboard for Qus.",
+    "arDesc": "لوحة مؤشرات الأراضي الزراعية والصناعية — طريق قوص، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-5a3aaa3b3a/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Qus",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Qus",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-5a3aaa3b3a.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-5a3aaa3b3a.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات الأراضي الزراعية والصناعية – طريق قوص in slide 19 of تطبيقات_منصة_وزارة_النقل.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل.pptx",
+      "slide": 19
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-5a3aaa3b3a",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-58fefdb551",
+    "en": "Land Prices Dashboard — Qus",
+    "ar": "لوحة مؤشرات أسعار الأراضي – طريق قوص",
+    "group": "Dashboards",
+    "sub": "Dashboard · Qus",
+    "desc": "Road development, land use and planning dashboard for Qus.",
+    "arDesc": "لوحة مؤشرات أسعار الأراضي — طريق قوص، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-58fefdb551/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Qus",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Qus",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-58fefdb551.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-58fefdb551.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات أسعار الأراضي – طريق قوص in slide 21 of تطبيقات_منصة_وزارة_النقل.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل.pptx",
+      "slide": 21
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-58fefdb551",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-storymap-bd328e2a5b",
+    "en": "Land-Use Change StoryMap — Qus",
+    "ar": "تطور الاراضي المحيطة بطريق قوص",
+    "group": "GIS",
+    "sub": "StoryMap · Qus",
+    "desc": "Interactive spatial story and land-use change presentation for Qus.",
+    "arDesc": "تطور الاراضي المحيطة بطريق قوص، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/storymap-bd328e2a5b/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Qus",
+      "StoryMap",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Qus",
+    "cover": null,
+    "screenshot": "/screenshots/transport-storymap-bd328e2a5b.webp",
+    "gallery": [
+      "/screenshots/transport-storymap-bd328e2a5b.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled تطور الاراضي المحيطة بطريق قوص in slide 37 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 37
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx"
+      ],
+      "slug": "storymap-bd328e2a5b",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-24259ddcec",
+    "en": "Urban Land Dashboard — Qena–Luxor",
+    "ar": "لوحة مؤشرات الأراضي العمرانية – طريق قنا - الأقصر",
+    "group": "Dashboards",
+    "sub": "Dashboard · Qena–Luxor",
+    "desc": "Road development, land use and planning dashboard for Qena–Luxor.",
+    "arDesc": "لوحة مؤشرات الأراضي العمرانية — طريق قنا - الأقصر، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-24259ddcec/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Qena–Luxor",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Qena–Luxor",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-24259ddcec.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-24259ddcec.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات الأراضي العمرانية – طريق قنا - الأقصر in slide 39 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 39
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx"
+      ],
+      "slug": "dashboard-24259ddcec",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-0c7d78be88",
+    "en": "Agriculture Dashboard — Qena–Luxor",
+    "ar": "لوحة مؤشرات الأراضي الزراعية – طريق قنا - الأقصر",
+    "group": "Dashboards",
+    "sub": "Dashboard · Qena–Luxor",
+    "desc": "Road development, land use and planning dashboard for Qena–Luxor.",
+    "arDesc": "لوحة مؤشرات الأراضي الزراعية — طريق قنا - الأقصر، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-0c7d78be88/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Qena–Luxor",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Qena–Luxor",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-0c7d78be88.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-0c7d78be88.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات الأراضي الزراعية – طريق قنا - الأقصر in slide 40 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 40
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx"
+      ],
+      "slug": "dashboard-0c7d78be88",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-048f4e4237",
+    "en": "Land Prices Dashboard — Qena–Luxor",
+    "ar": "لوحة مؤشرات أسعار الأراضي – طريق قنا - الأقصر",
+    "group": "Dashboards",
+    "sub": "Dashboard · Qena–Luxor",
+    "desc": "Road development, land use and planning dashboard for Qena–Luxor.",
+    "arDesc": "لوحة مؤشرات أسعار الأراضي — طريق قنا - الأقصر، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-048f4e4237/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Qena–Luxor",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Qena–Luxor",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-048f4e4237.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-048f4e4237.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات أسعار الأراضي – طريق قنا - الأقصر in slide 41 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 41
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx"
+      ],
+      "slug": "dashboard-048f4e4237",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-storymap-e98ec507f5",
+    "en": "Land-Use Change StoryMap — Qena–Luxor",
+    "ar": "تطور الاراضي المحيطة بطريق قنا الأقصر",
+    "group": "GIS",
+    "sub": "StoryMap · Qena–Luxor",
+    "desc": "Interactive spatial story and land-use change presentation for Qena–Luxor.",
+    "arDesc": "تطور الاراضي المحيطة بطريق قنا الأقصر، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/storymap-e98ec507f5/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Qena–Luxor",
+      "StoryMap",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Qena–Luxor",
+    "cover": null,
+    "screenshot": "/screenshots/transport-storymap-e98ec507f5.webp",
+    "gallery": [
+      "/screenshots/transport-storymap-e98ec507f5.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled تطور الاراضي المحيطة بطريق قنا الأقصر in slide 42 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 42
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx"
+      ],
+      "slug": "storymap-e98ec507f5",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-c79fcd32aa",
+    "en": "Urban Land Dashboard — Dabaa",
+    "ar": "لوحة مؤشرات الأراضي العمرانية – طريق الضبعة",
+    "group": "Dashboards",
+    "sub": "Dashboard · Dabaa",
+    "desc": "Road development, land use and planning dashboard for Dabaa.",
+    "arDesc": "لوحة مؤشرات الأراضي العمرانية — طريق الضبعة، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-c79fcd32aa/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Dabaa",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Dabaa",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-c79fcd32aa.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-c79fcd32aa.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات الأراضي العمرانية – طريق الضبعة in slide 28 of تطبيقات_منصة_وزارة_النقل.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل.pptx",
+      "slide": 28
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-c79fcd32aa",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-c1e29f0123",
+    "en": "Agriculture Dashboard — Dabaa",
+    "ar": "لوحة مؤشرات الأراضي الزراعية – طريق الضبعة",
+    "group": "Dashboards",
+    "sub": "Dashboard · Dabaa",
+    "desc": "Road development, land use and planning dashboard for Dabaa.",
+    "arDesc": "لوحة مؤشرات الأراضي الزراعية — طريق الضبعة، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-c1e29f0123/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Dabaa",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Dabaa",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-c1e29f0123.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-c1e29f0123.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات الأراضي الزراعية – طريق الضبعة in slide 45 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 45
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx"
+      ],
+      "slug": "dashboard-c1e29f0123",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-594d7c7ff4",
+    "en": "Land Prices Dashboard — Dabaa",
+    "ar": "لوحة مؤشرات أسعار الأراضي – طريق الضبعة",
+    "group": "Dashboards",
+    "sub": "Dashboard · Dabaa",
+    "desc": "Road development, land use and planning dashboard for Dabaa.",
+    "arDesc": "لوحة مؤشرات أسعار الأراضي — طريق الضبعة، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-594d7c7ff4/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Dabaa",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Dabaa",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-594d7c7ff4.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-594d7c7ff4.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة مؤشرات أسعار الأراضي – طريق الضبعة in slide 30 of تطبيقات_منصة_وزارة_النقل.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل.pptx",
+      "slide": 30
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-594d7c7ff4",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-storymap-3bc68f337f",
+    "en": "Land-Use Change StoryMap — Dabaa",
+    "ar": "تطور الأراضي المحيطة بطريق الضبعة",
+    "group": "GIS",
+    "sub": "StoryMap · Dabaa",
+    "desc": "Interactive spatial story and land-use change presentation for Dabaa.",
+    "arDesc": "تطور الأراضي المحيطة بطريق الضبعة، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/storymap-3bc68f337f/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Dabaa",
+      "StoryMap",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Dabaa",
+    "cover": null,
+    "screenshot": "/screenshots/transport-storymap-3bc68f337f.webp",
+    "gallery": [
+      "/screenshots/transport-storymap-3bc68f337f.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled تطور الأراضي المحيطة بطريق الضبعة in slide 47 of تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx",
+      "slide": 47
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل_الشاشات_الكاملة_RTL.pptx"
+      ],
+      "slug": "storymap-3bc68f337f",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-western-upper-egypt-development-impact",
+    "en": "Economic & Development Dashboard — Western Upper Egypt",
+    "ar": "لوحة الأثر الاقتصادي و التنموي– طريق الصعيد الغربي",
+    "group": "Dashboards",
+    "sub": "Dashboard · Western Upper Egypt",
+    "desc": "Road development, land use and planning dashboard for Western Upper Egypt.",
+    "arDesc": "لوحة الأثر الاقتصادي و التنموي— طريق الصعيد الغربي، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-western-upper-egypt-development-impact/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Western Upper Egypt",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Western Upper Egypt",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-western-upper-egypt-development-impact.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-western-upper-egypt-development-impact.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة الأثر الاقتصادي و التنموي– طريق الصعيد الغربي in slide 10 of تطبيقات_منصة_وزارة_النقل.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل.pptx",
+      "slide": 10
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-western-upper-egypt-development-impact",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-35c11a505b",
+    "en": "Economic & Development Dashboard — Eastern Regional Ring Road",
+    "ar": "لوحة الأثر الاقتصادي و التنموي–القوس الشرقي للطريق الدائري الإقليمي وخط الروبيكي",
+    "group": "Dashboards",
+    "sub": "Dashboard · Eastern Regional Ring Road",
+    "desc": "Road development, land use and planning dashboard for Eastern Regional Ring Road.",
+    "arDesc": "لوحة الأثر الاقتصادي و التنموي—القوس الشرقي للطريق الدائري الإقليمي وخط الروبيكي، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-35c11a505b/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Eastern Regional Ring Road",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Eastern Regional Ring Road",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-35c11a505b.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-35c11a505b.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة الأثر الاقتصادي و التنموي–القوس الشرقي للطريق الدائري الإقليمي وخط الروبيكي in slide 15 of تطبيقات_منصة_وزارة_النقل.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل.pptx",
+      "slide": 15
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-35c11a505b",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-qus-development-impact",
+    "en": "Economic & Development Dashboard — Qus",
+    "ar": "لوحة الأثر الاقتصادي و التنموي– محور قوص",
+    "group": "Dashboards",
+    "sub": "Dashboard · Qus",
+    "desc": "Road development, land use and planning dashboard for Qus.",
+    "arDesc": "لوحة الأثر الاقتصادي و التنموي— محور قوص، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-qus-development-impact/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Qus",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Qus",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-qus-development-impact.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-qus-development-impact.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة الأثر الاقتصادي و التنموي– محور قوص in slide 20 of تطبيقات_منصة_وزارة_النقل.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل.pptx",
+      "slide": 20
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-qus-development-impact",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-kalabsha-development-impact",
+    "en": "Economic & Development Dashboard — Kalabsha",
+    "ar": "لوحة الأثر الاقتصادي و التنموي– محور كلابشة",
+    "group": "Dashboards",
+    "sub": "Dashboard · Kalabsha",
+    "desc": "Road development, land use and planning dashboard for Kalabsha.",
+    "arDesc": "لوحة الأثر الاقتصادي و التنموي— محور كلابشة، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-kalabsha-development-impact/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Kalabsha",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Kalabsha",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-kalabsha-development-impact.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-kalabsha-development-impact.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة الأثر الاقتصادي و التنموي– محور كلابشة in slide 25 of تطبيقات_منصة_وزارة_النقل.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل.pptx",
+      "slide": 25
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-kalabsha-development-impact",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "transport-dashboard-dabaa-development-impact",
+    "en": "Economic & Development Dashboard — Dabaa",
+    "ar": "لوحة الأثر الاقتصادي و التنموي– محور الضبعة",
+    "group": "Dashboards",
+    "sub": "Dashboard · Dabaa",
+    "desc": "Road development, land use and planning dashboard for Dabaa.",
+    "arDesc": "لوحة الأثر الاقتصادي و التنموي— محور الضبعة، ضمن التطبيقات المستقلة لمنصة وزارة النقل.",
+    "url": "https://transport-platform-apps.vercel.app/projects/dashboard-dabaa-development-impact/index.html?lang=ar",
+    "sourceUrl": null,
+    "tags": [
+      "Transport",
+      "Dabaa",
+      "Dashboard",
+      "GIS"
+    ],
+    "featured": false,
+    "origin": "Transport",
+    "status": "live",
+    "parentId": "transport",
+    "road": "Dabaa",
+    "cover": null,
+    "screenshot": "/screenshots/transport-dashboard-dabaa-development-impact.webp",
+    "gallery": [
+      "/screenshots/transport-dashboard-dabaa-development-impact.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "evidence": "Exact project titled لوحة الأثر الاقتصادي و التنموي– محور الضبعة in slide 29 of تطبيقات_منصة_وزارة_النقل.pptx; embedded app screenshot saved without visual generation.",
+      "source": "تطبيقات_منصة_وزارة_النقل.pptx",
+      "slide": 29
+    },
+    "catalogEvidence": {
+      "kind": "transport_presentation",
+      "sourceFiles": [
+        "تطبيقات_منصة_وزارة_النقل.pptx",
+        "روابط_تطبيقات_منصة_وزارة_النقل.docx"
+      ],
+      "slug": "dashboard-dabaa-development-impact",
+      "directUrlConfirmedInDocument": true,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "obour-city-website",
+    "en": "New Obour City Infrastructure Portal",
+    "ar": "منصة شبكات مرافق مدينة العبور الجديدة",
+    "group": "GIS",
+    "sub": "GIS / Spatial",
+    "desc": "Interactive utility project website with bilingual maps and infrastructure evidence.",
+    "arDesc": "موقع تفاعلي لمرافق مدينة العبور الجديدة بالخرائط والشبكات.",
+    "url": null,
+    "sourceUrl": "https://github.com/SAAD23-lgtm/Obour-Overview",
+    "tags": [
+      "React",
+      "TypeScript",
+      "Leaflet",
+      "Infrastructure"
+    ],
+    "featured": false,
+    "origin": "GIS",
+    "cover": null,
+    "status": "case",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "source": null,
+      "evidence": "No exact app screenshot collected yet."
+    },
+    "catalogEvidence": {
+      "kind": "prior_project_artifact_or_public_repository",
+      "source": "https://github.com/SAAD23-lgtm/Obour-Overview",
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "obour-utility-dashboards",
+    "en": "New Obour City Utility Dashboards",
+    "ar": "داشبورد شبكات مرافق العبور الجديدة",
+    "group": "Dashboards",
+    "sub": "Dashboards",
+    "desc": "Component-based dashboards for different utility networks and mapped asset data.",
+    "arDesc": "داشبوردات شبكات المرافق والأصول المكانية في العبور الجديدة.",
+    "url": null,
+    "sourceUrl": "https://github.com/SAAD23-lgtm/Obour-Utilty",
+    "tags": [
+      "QGIS",
+      "Utility Networks",
+      "React",
+      "TypeScript"
+    ],
+    "featured": false,
+    "origin": "GIS",
+    "cover": null,
+    "status": "case",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "source": null,
+      "evidence": "No exact app screenshot collected yet."
+    },
+    "catalogEvidence": {
+      "kind": "prior_project_artifact_or_public_repository",
+      "source": "https://github.com/SAAD23-lgtm/Obour-Utilty",
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "matrouh-survey-portal",
+    "en": "Matrouh Field Survey Portal",
+    "ar": "بوابة استبيانات قطاع مطروح",
+    "group": "Platforms",
+    "sub": "Platforms",
+    "desc": "Arabic portal routing field teams to sector-specific survey forms.",
+    "arDesc": "بوابة لتجميع وإتاحة استبيانات القطاعات المختلفة بمطروح.",
+    "url": null,
+    "sourceUrl": "https://github.com/SAAD23-lgtm/Matrouh-Sector",
+    "tags": [
+      "Survey",
+      "Field GIS",
+      "Arabic"
+    ],
+    "featured": false,
+    "origin": "GIS",
+    "cover": null,
+    "status": "case",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "source": null,
+      "evidence": "No exact app screenshot collected yet."
+    },
+    "catalogEvidence": {
+      "kind": "prior_project_artifact_or_public_repository",
+      "source": "https://github.com/SAAD23-lgtm/Matrouh-Sector",
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "westafrica-economic",
+    "en": "West Africa Economic Development Dashboard",
+    "ar": "داشبورد التنمية الاقتصادية لغرب أفريقيا",
+    "group": "Dashboards",
+    "sub": "Dashboards",
+    "desc": "Economic and social country indicators explored using spatial dashboards.",
+    "arDesc": "مؤشرات اقتصادية واجتماعية لدول غرب أفريقيا على داشبورد جغرافي تفاعلي.",
+    "url": null,
+    "sourceUrl": "https://ae.linkedin.com/posts/saadbarghouth_gis-arcgis-dataanalysis-activity-7305301496668020736-X7Rb",
+    "tags": [
+      "Spatial Analysis",
+      "Dashboard",
+      "Economy"
+    ],
+    "featured": false,
+    "origin": "GIS",
+    "cover": null,
+    "status": "case",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "source": null,
+      "evidence": "No exact app screenshot collected yet."
+    },
+    "catalogEvidence": {
+      "kind": "prior_project_artifact_or_public_repository",
+      "source": "https://ae.linkedin.com/posts/saadbarghouth_gis-arcgis-dataanalysis-activity-7305301496668020736-X7Rb",
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "vodafone-poc",
+    "en": "Vodafone GIS Proof-of-Concept Data Conversion",
+    "ar": "إعداد البيانات الجغرافية لمشروع Vodafone POC",
+    "group": "GIS",
+    "sub": "GIS / Spatial",
+    "desc": "Geospatial data preparation and GeoJSON conversion for a mapping integration proof-of-concept.",
+    "arDesc": "تحويل وتجهيز طبقات مشروع Vodafone POC إلى GeoJSON للتطبيقات الجغرافية.",
+    "url": null,
+    "sourceUrl": null,
+    "tags": [
+      "GeoJSON",
+      "GIS",
+      "TypeScript"
+    ],
+    "featured": false,
+    "origin": "GIS",
+    "cover": null,
+    "status": "case",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "source": null,
+      "evidence": "No exact app screenshot collected yet."
+    },
+    "catalogEvidence": {
+      "kind": "prior_project_artifact_or_public_repository",
+      "source": null,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "salhiya-geojson",
+    "en": "El Salhiya GIS Datasets",
+    "ar": "البيانات الجغرافية لمدينة الصالحية",
+    "group": "GIS",
+    "sub": "GIS / Spatial",
+    "desc": "City-layer GIS schema and detailed GeoJSON preparation for web applications.",
+    "arDesc": "تجهيز طبقات مدينة الصالحية بتفاصيلها للاستخدام على الويب.",
+    "url": null,
+    "sourceUrl": null,
+    "tags": [
+      "GeoJSON",
+      "City Layers"
+    ],
+    "featured": false,
+    "origin": "GIS",
+    "cover": null,
+    "status": "case",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "source": null,
+      "evidence": "No exact app screenshot collected yet."
+    },
+    "catalogEvidence": {
+      "kind": "prior_project_artifact_or_public_repository",
+      "source": null,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "suez-geojson",
+    "en": "Suez GIS Datasets",
+    "ar": "البيانات الجغرافية لمدينة السويس",
+    "group": "GIS",
+    "sub": "GIS / Spatial",
+    "desc": "Suez city GIS layer conversion and data-ready geospatial web assets.",
+    "arDesc": "تجهيز بيانات وطبقات مدينة السويس للتطبيقات التفاعلية.",
+    "url": null,
+    "sourceUrl": null,
+    "tags": [
+      "GeoJSON",
+      "Web GIS"
+    ],
+    "featured": false,
+    "origin": "GIS",
+    "cover": null,
+    "status": "case",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "source": null,
+      "evidence": "No exact app screenshot collected yet."
+    },
+    "catalogEvidence": {
+      "kind": "prior_project_artifact_or_public_repository",
+      "source": null,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "may15-geojson",
+    "en": "15 May City GIS Datasets",
+    "ar": "البيانات الجغرافية لمدينة 15 مايو",
+    "group": "GIS",
+    "sub": "GIS / Spatial",
+    "desc": "15 May city datasets converted into geospatial web-ready layers.",
+    "arDesc": "تجهيز بيانات وطبقات مدينة 15 مايو لتطبيقات TypeScript.",
+    "url": null,
+    "sourceUrl": null,
+    "tags": [
+      "GeoJSON",
+      "TypeScript"
+    ],
+    "featured": false,
+    "origin": "GIS",
+    "cover": null,
+    "status": "case",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "source": null,
+      "evidence": "No exact app screenshot collected yet."
+    },
+    "catalogEvidence": {
+      "kind": "prior_project_artifact_or_public_repository",
+      "source": null,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "industrial-field-survey",
+    "en": "Industrial Sector Survey123 System",
+    "ar": "نظام المسح الميداني للقطاع الصناعي",
+    "group": "GIS",
+    "sub": "GIS / Spatial",
+    "desc": "Sector-specific GIS field-survey collection and reporting workflow.",
+    "arDesc": "نماذج جمع بيانات الأنشطة الصناعية ميدانيًا وربطها بالموقع.",
+    "url": null,
+    "sourceUrl": null,
+    "tags": [
+      "Survey123",
+      "Industrial"
+    ],
+    "featured": false,
+    "origin": "GIS",
+    "cover": null,
+    "status": "case",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "source": null,
+      "evidence": "No exact app screenshot collected yet."
+    },
+    "catalogEvidence": {
+      "kind": "prior_project_artifact_or_public_repository",
+      "source": null,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "tourism-field-survey",
+    "en": "Tourism Sector Survey123 System",
+    "ar": "نظام المسح الميداني للقطاع السياحي",
+    "group": "GIS",
+    "sub": "GIS / Spatial",
+    "desc": "Location-based tourism facilities and visitor-related survey workflows.",
+    "arDesc": "نماذج المسح السياحي للمنشآت والخدمات والبيانات المكانية.",
+    "url": null,
+    "sourceUrl": null,
+    "tags": [
+      "Survey123",
+      "Tourism"
+    ],
+    "featured": false,
+    "origin": "GIS",
+    "cover": null,
+    "status": "case",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "source": null,
+      "evidence": "No exact app screenshot collected yet."
+    },
+    "catalogEvidence": {
+      "kind": "prior_project_artifact_or_public_repository",
+      "source": null,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "agriculture-field-survey",
+    "en": "Agriculture Survey123 System",
+    "ar": "نظام المسح الميداني للقطاع الزراعي",
+    "group": "GIS",
+    "sub": "GIS / Spatial",
+    "desc": "GIS mobile forms for agricultural activity and site-level surveys.",
+    "arDesc": "نماذج المسح الزراعي الميداني والبيانات الخاصة بالموقع.",
+    "url": null,
+    "sourceUrl": null,
+    "tags": [
+      "Survey123",
+      "Agriculture"
+    ],
+    "featured": false,
+    "origin": "GIS",
+    "cover": null,
+    "status": "case",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "source": null,
+      "evidence": "No exact app screenshot collected yet."
+    },
+    "catalogEvidence": {
+      "kind": "prior_project_artifact_or_public_repository",
+      "source": null,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "fish-farms-field-survey",
+    "en": "Fish Farms Survey123 System",
+    "ar": "نظام مسح المزارع السمكية",
+    "group": "GIS",
+    "sub": "GIS / Spatial",
+    "desc": "Field GIS forms tailored to fish farm assets, operation and survey points.",
+    "arDesc": "نماذج ميدانية متخصصة لبيانات المزارع السمكية.",
+    "url": null,
+    "sourceUrl": null,
+    "tags": [
+      "Survey123",
+      "Aquaculture"
+    ],
+    "featured": false,
+    "origin": "GIS",
+    "cover": null,
+    "status": "case",
+    "screenshot": null,
+    "gallery": [],
+    "screenshotAudit": {
+      "state": "pending",
+      "source": null,
+      "evidence": "No exact app screenshot collected yet."
+    },
+    "catalogEvidence": {
+      "kind": "prior_project_artifact_or_public_repository",
+      "source": null,
+      "httpStatusTested": false
+    }
+  },
+  {
+    "id": "rsg-destinations",
+    "en": "RSG Regenerative Destination Management",
+    "ar": "نظام إدارة وجهات البحر الأحمر",
+    "group": "Platforms",
+    "sub": "Platforms",
+    "desc": "Prototype dashboard for destination assets, sustainability indicators, construction and executive decisions.",
+    "arDesc": "منصة تجريبية لإدارة وجهات البحر الأحمر ومؤشرات الاستدامة والمشروعات.",
+    "url": null,
+    "sourceUrl": null,
+    "tags": [
+      "RSG",
+      "Digital Twin",
+      "Sustainability"
+    ],
+    "featured": false,
+    "origin": "GIS",
+    "cover": null,
+    "status": "case",
+    "screenshot": "/screenshots/rsg-destinations-5.webp",
+    "gallery": [
+      "/screenshots/rsg-destinations-5.webp",
+      "/screenshots/rsg-destinations-6.webp",
+      "/screenshots/rsg-destinations-8.webp"
+    ],
+    "screenshotAudit": {
+      "state": "verified",
+      "source": "RSG_Destination_Management_Platform_Detailed_Explainer_EN.pptx",
+      "evidence": "Original RSG Destination Management prototype screenshots shown within this exact RSG application walkthrough."
+    },
+    "catalogEvidence": {
+      "kind": "prior_project_artifact_or_public_repository",
+      "source": null,
+      "httpStatusTested": false
+    }
+  }
+]
