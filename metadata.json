@@ -1,0 +1,6 @@
+{
+  "name": "Saad Barghouth · Notaq — Project Archive",
+  "description": "Explore Saad Barghouth and Notaq’s bilingual project archive: verified GIS, transport, infrastructure, enterprise and digital-product work.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
