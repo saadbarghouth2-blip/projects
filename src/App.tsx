@@ -815,7 +815,9 @@ export default function App() {
       {/* Top Navigation Bar */}
       <header className="topbar">
         <a href="#top" className="brand" aria-label={lang === 'ar' ? 'سعد برغوث — نُطق' : 'Saad Barghouth — Notaq'} data-testid="link-home">
-          <span className="brand-mark">{lang === 'ar' ? 'ن' : 'N'}</span>
+          <span className="brand-mark">
+            <img src="/logooo.png" alt="Saad Barghouth logo" className="brand-logo" />
+          </span>
           <span>
             <span className="brand-name">SAAD BARGHOUTH</span>
             <span className="brand-sub">{lang === 'ar' ? 'نُطق / أرشيف المشاريع' : 'NOTAQ / PROJECT ARCHIVE'}</span>
