@@ -698,6 +698,9 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,[t
 .card-action { display:inline-flex; align-items:center; gap:6px; border:0; background:transparent; padding:0; color:var(--muted); font:8.5px var(--app-font-mono); white-space:nowrap; cursor:pointer; }
 .card-action:hover { color:var(--teal); }
 .details-action { color:var(--teal); font-weight:600; }
+.project-action { padding:8px 10px; border:1px solid color-mix(in srgb, var(--amber) 78%, #8d4e19); border-radius:4px; background:var(--amber); color:#fffaf0; font-weight:700; letter-spacing:.04em; box-shadow:0 3px 8px rgba(120, 68, 22, 0.2); transition:transform .16s ease, background .16s ease, box-shadow .16s ease; }
+.project-action:hover { color:#fffaf0; background:#a9642f; transform:translateY(-1px); box-shadow:0 5px 12px rgba(120, 68, 22, 0.28); }
+.project-action:focus-visible { outline-color:var(--amber); }
 .no-project-url { cursor:default; color:var(--muted); opacity:.75; }
 .card-footer { gap:8px; }
 .project-grid.list .card-footer { display:flex; grid-column:1/-1; width:100%; margin-top:8px; padding-top:10px; }
