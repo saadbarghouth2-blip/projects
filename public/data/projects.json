@@ -1315,8 +1315,9 @@
     "origin": "GIS",
     "cover": null,
     "status": "live",
-    "screenshot": "/screenshots/transport-live.jpg",
+    "screenshot": "/screenshots/transport-platform-hero-live.jpg",
     "gallery": [
+      "/screenshots/transport-platform-hero-live.jpg",
       "/screenshots/transport-live.jpg",
       "/screenshots/transport-live-mobile.jpg",
       "/screenshots/transport-main.webp",
@@ -5014,6 +5015,31 @@
       "state": "verified",
       "source": "https://ismaili-application-classifications.vercel.app/prices",
       "evidence": "Captured directly from the live Cairo–Ismailia land-prices dashboard."
+    },
+    "startYear": 2016,
+    "completionYear": 2026
+  },
+  {
+    "id": "ismailia-change-samples-2016-2026",
+    "en": "Cairo–Ismailia Spatial Change Samples 2016–2026",
+    "ar": "عينات مكانية للتغير 2016–2026 — طريق القاهرة–الإسماعيلية",
+    "group": "Dashboards",
+    "sub": "Spatial change analysis · Cairo–Ismailia",
+    "desc": "An interactive GIS platform featuring synchronized close-zoom map samples across 30 locations to validate urban, agricultural, industrial and water body changes from 2016 to 2026 along the Cairo–Ismailia Desert Road corridor.",
+    "arDesc": "منصة GIS تفاعلية تعرض عينات خرائط متزامنة ومكبرة عبر 30 موقعاً لرصد وتدقيق التغيرات العمرانية والزراعية والصناعية والمائية بين 2016 و2026 على طريق القاهرة–الإسماعيلية الصحراوي.",
+    "url": "https://ismailia-geo-dashboard.vercel.app/change-samples",
+    "sourceUrl": null,
+    "tags": ["GIS", "Change Detection", "Cairo–Ismailia", "Remote Sensing"],
+    "featured": true,
+    "origin": "Transport",
+    "status": "live",
+    "road": "Cairo–Ismailia",
+    "screenshot": "/screenshots/ismailia-change-samples-live.jpg",
+    "gallery": ["/screenshots/ismailia-change-samples-live.jpg"],
+    "screenshotAudit": {
+      "state": "verified",
+      "source": "https://ismailia-geo-dashboard.vercel.app/change-samples",
+      "evidence": "Captured directly from the live Cairo–Ismailia spatial change samples dashboard."
     },
     "startYear": 2016,
     "completionYear": 2026

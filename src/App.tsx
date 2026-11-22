@@ -27,6 +27,7 @@ import { HeroVisual } from './components/HeroVisual';
 import { ProjectDrawer } from './components/ProjectDrawer';
 import { ScrollIndicator } from './components/ScrollIndicator';
 import { QuickActionsMenu } from './components/QuickActionsMenu';
+import { StatsBar } from './components/StatsBar';
 
 const PREMIUM_EASE = [0.22, 1, 0.36, 1] as const;
 
@@ -67,9 +68,10 @@ const PROJECT_PRIORITY: Record<string, number> = {
   'smart-infra': 98,
   'ismailia-land-use-2016-2026': 97,
   'ismailia-land-prices-2016-2026': 96,
-  damietta: 95,
-  'obour-city-website': 94,
-  'obour-utility-dashboards': 93,
+  'ismailia-change-samples-2016-2026': 95,
+  damietta: 94,
+  'obour-city-website': 93,
+  'obour-utility-dashboards': 92,
 };
 const categoryNames: Record<string, [string, string]> = {
   All: ['All work', 'كل الأعمال'],
@@ -345,11 +347,12 @@ function ProjectCard({
   return (
     <motion.article
       layout="position"
-      initial={{ opacity: 0, y: shouldReduceMotion ? 0 : 20 }}
-      animate={{ opacity: 1, y: 0 }}
+      initial={{ opacity: 0, y: shouldReduceMotion ? 0 : 22, scale: shouldReduceMotion ? 1 : 0.98 }}
+      whileInView={{ opacity: 1, y: 0, scale: 1 }}
+      viewport={{ once: true, margin: '-30px' }}
       transition={{
-        duration: 0.45,
-        delay: shouldReduceMotion ? 0 : Math.min(index * 0.03, 0.3),
+        duration: 0.5,
+        delay: shouldReduceMotion ? 0 : Math.min((index % 6) * 0.05, 0.3),
         ease: PREMIUM_EASE,
       }}
       className="project-card group"
@@ -476,16 +479,37 @@ function FeaturedCard({
   const image = project.screenshot!;
   const isFlagship = index === 0;
 
+  const [tilt, setTilt] = useState({ x: 0, y: 0 });
+
+  const handleMouseMove = (e: React.MouseEvent<HTMLElement>) => {
+    if (shouldReduceMotion) return;
+    const rect = e.currentTarget.getBoundingClientRect();
+    const x = e.clientX - rect.left - rect.width / 2;
+    const y = e.clientY - rect.top - rect.height / 2;
+    setTilt({
+      x: (-y / rect.height) * 5,
+      y: (x / rect.width) * 5,
+    });
+  };
+
+  const handleMouseLeave = () => {
+    setTilt({ x: 0, y: 0 });
+  };
+
   return (
     <motion.article
       initial={{ opacity: 0, y: shouldReduceMotion ? 0 : 24 }}
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, margin: '-20px' }}
+      animate={shouldReduceMotion ? undefined : { rotateX: tilt.x, rotateY: tilt.y }}
+      onMouseMove={handleMouseMove}
+      onMouseLeave={handleMouseLeave}
       transition={{
         duration: 0.6,
         delay: shouldReduceMotion ? 0 : index * 0.08,
         ease: PREMIUM_EASE,
       }}
+      style={{ perspective: 1000 }}
       className={`featured-card featured-card-${index + 1} group`}
       data-testid={`featured-project-${project.id}`}
     >
@@ -632,6 +656,19 @@ export default function App() {
   const searchRef = useRef<HTMLInputElement>(null);
   const returnFocus = useRef<HTMLElement | null>(null);
   const t = copy[lang];
+  const [showScrollTop, setShowScrollTop] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setShowScrollTop(window.scrollY > 400);
+    };
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
 
   useEffect(() => {
     let alive = true;
@@ -805,6 +842,7 @@ export default function App() {
     'smart-infra',
     'ismailia-land-use-2016-2026',
     'ismailia-land-prices-2016-2026',
+    'ismailia-change-samples-2016-2026',
   ];
   const selectedFeatures = featuredIds
     .map(id => distinctProjects.find(p => p.id === id))
@@ -971,11 +1009,49 @@ export default function App() {
             transition={{ duration: 0.65, ease: PREMIUM_EASE }}
             className="intro-copy"
           >
-            <div className="eyebrow">{t.eyebrow}</div>
-            <h1 id="intro-title">
-              {t.titleA}
+            <div className="eyebrow flex items-center gap-2 flex-wrap">
+              <span>{t.eyebrow}</span>
+              <span className="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full text-[8.5px] font-mono font-bold bg-[var(--card)] border border-[var(--line)] text-[var(--teal)] shadow-sm">
+                <span className="w-1.5 h-1.5 rounded-full bg-[var(--teal)] animate-pulse" />
+                {lang === 'ar' ? 'متاح للتعاقد والمشاريع' : 'OPEN FOR PROJECTS'}
+              </span>
+            </div>
+            <h1 id="intro-title" className="overflow-hidden">
+              <span className="inline-block">
+                {t.titleA.split(' ').map((word, i) => (
+                  <motion.span
+                    key={i}
+                    initial={{ opacity: 0, y: shouldReduceMotion ? 0 : 20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{
+                      duration: 0.6,
+                      delay: shouldReduceMotion ? 0 : 0.08 + i * 0.09,
+                      ease: PREMIUM_EASE,
+                    }}
+                    className="inline-block me-2"
+                  >
+                    {word}
+                  </motion.span>
+                ))}
+              </span>
               <br />
-              <em>{t.titleB}</em>
+              <em className="inline-block">
+                {t.titleB.split(' ').map((word, i) => (
+                  <motion.span
+                    key={i}
+                    initial={{ opacity: 0, y: shouldReduceMotion ? 0 : 20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    transition={{
+                      duration: 0.6,
+                      delay: shouldReduceMotion ? 0 : 0.28 + i * 0.09,
+                      ease: PREMIUM_EASE,
+                    }}
+                    className="inline-block me-2"
+                  >
+                    {word}
+                  </motion.span>
+                ))}
+              </em>
             </h1>
             <p className="intro-desc">{t.desc}</p>
             <div className="intro-line">
@@ -1059,6 +1135,17 @@ export default function App() {
             </AnimatePresence>
           </div>
         </section>
+
+        {/* Enterprise Credibility Stats Bar with Live Counter */}
+        <StatsBar
+          totalProjects={distinctProjects.length}
+          liveCount={liveCount}
+          verifiedScreensCount={verifiedScreensCount}
+          sectorsCount={categories.length - 1}
+          liveOnly={liveOnly}
+          onToggleLive={() => setLiveOnly(v => !v)}
+          lang={lang}
+        />
 
         {/* Selected Featured Projects */}
         {selectedFeatures.length > 0 && (
@@ -1456,6 +1543,43 @@ export default function App() {
         onClose={() => setLightboxState({ isOpen: false, src: null, title: '' })}
         lang={lang}
       />
+
+      {/* Floating Scroll To Top Button */}
+      <AnimatePresence>
+        {showScrollTop && (
+          <motion.button
+            type="button"
+            onClick={scrollToTop}
+            initial={{ opacity: 0, scale: 0.8, y: 16 }}
+            animate={{ opacity: 1, scale: 1, y: 0 }}
+            exit={{ opacity: 0, scale: 0.8, y: 16 }}
+            transition={{ duration: 0.25, ease: PREMIUM_EASE }}
+            className="scroll-top-btn"
+            title={lang === 'ar' ? 'الرجوع للأعلى' : 'Scroll to top'}
+            aria-label={lang === 'ar' ? 'الرجوع للأعلى' : 'Scroll to top'}
+            data-testid="button-scroll-top"
+          >
+            <ArrowUp size={18} />
+          </motion.button>
+        )}
+      </AnimatePresence>
+
+      {/* Floating Client Conversion Action Pill */}
+      <motion.a
+        href="https://www.barghouth.me/contact"
+        target="_blank"
+        rel="noreferrer"
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.6, delay: 0.8, ease: PREMIUM_EASE }}
+        className="floating-client-pill"
+        title={lang === 'ar' ? 'بدء التعاقد أو مناقشة مشروع' : 'Discuss a project or contract'}
+        data-testid="floating-contact-cta"
+      >
+        <span className="pulse-indicator" aria-hidden="true" />
+        <span>{lang === 'ar' ? 'جاهز لمشروعك القادم' : 'Available for projects'}</span>
+        <ArrowUpRight size={12} className="text-[var(--teal)] shrink-0" />
+      </motion.a>
     </div>
   );
 }
