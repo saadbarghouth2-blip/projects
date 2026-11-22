@@ -789,9 +789,9 @@ export default function App() {
 
   const featuredIds = [
     'transport',
-    'smart-infra',
-    'gis-automator',
-    'transport-dashboard-ismailia-development-impact',
+    'ismailia-land-use-2016-2026',
+    'ismailia-land-prices-2016-2026',
+    'damietta',
     'rsg-destinations',
   ];
   const selectedFeatures = featuredIds
@@ -829,6 +829,29 @@ export default function App() {
             <strong className="text-[var(--teal)] font-bold">{distinctProjects.length}</strong>{' '}
             {t.count}
           </span>
+
+          <div className="network-links" aria-label={lang === 'ar' ? 'روابط المواقع الرسمية' : 'Official websites'}>
+            <a
+              className="network-link network-link-personal"
+              href="https://barghouth.me/"
+              target="_blank"
+              rel="noreferrer"
+              title={lang === 'ar' ? 'الموقع المهني لسعد برغوث' : 'Saad Barghouth professional website'}
+            >
+              <span>{lang === 'ar' ? 'موقع سعد' : 'Saad Barghouth'}</span>
+              <ExternalLink size={11} aria-hidden="true" />
+            </a>
+            <a
+              className="network-link network-link-notaq"
+              href="https://xn--2gbwk.site/"
+              target="_blank"
+              rel="noreferrer"
+              title={lang === 'ar' ? 'موقع شركة نُطق' : 'Notaq digital solutions'}
+            >
+              <span>{lang === 'ar' ? 'شركة نُطق' : 'Notaq'}</span>
+              <ExternalLink size={11} aria-hidden="true" />
+            </a>
+          </div>
 
           {/* Reel trigger button in topbar */}
           <button

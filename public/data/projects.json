@@ -1617,25 +1617,26 @@
     "sub": "Enterprise GIS",
     "desc": "Geodatabase schema with datasets, domains, subtypes, relationship classes and automated quality rules.",
     "arDesc": "تصميم قاعدة بيانات مكانية تشمل مجموعات البيانات والدومينات والأنواع الفرعية والعلاقات وقواعد الجودة.",
-    "url": null,
+    "url": "https://damietta-port.vercel.app/",
     "sourceUrl": null,
     "tags": [
       "ArcGIS Pro",
       "ArcPy",
       "Geodatabase"
     ],
-    "featured": false,
+    "featured": true,
     "origin": "GIS",
     "cover": null,
-    "status": "case",
-    "screenshot": "/screenshots/damietta-port-gis.jpg",
+    "status": "live",
+    "screenshot": "/screenshots/damietta-port-live.jpg",
     "gallery": [
+      "/screenshots/damietta-port-live.jpg",
       "/screenshots/damietta-port-gis.jpg"
     ],
     "screenshotAudit": {
       "state": "verified",
-      "evidence": "قاعدة البيانات الجغرافية لميناء دمياط والأرصفة البحرية",
-      "source": "/screenshots/damietta-port-gis.jpg"
+      "evidence": "Captured directly from the live Damietta Port 3D GIS Dashboard.",
+      "source": "https://damietta-port.vercel.app/"
     },
     "catalogEvidence": {
       "kind": "original_project_inventory",
@@ -4966,5 +4967,55 @@
     },
     "startYear": 2024,
     "completionYear": 2025
+  },
+  {
+    "id": "ismailia-land-use-2016-2026",
+    "en": "Cairo–Ismailia Land-Use Change 2016–2026",
+    "ar": "مقارنة استخدامات الأراضي 2016–2026 — طريق القاهرة–الإسماعيلية",
+    "group": "Dashboards",
+    "sub": "Land-use analysis · Cairo–Ismailia",
+    "desc": "An interactive GIS analysis of land-use change along the Cairo–Ismailia corridor, comparing urban, agricultural, industrial and service areas from 2016 to 2026.",
+    "arDesc": "تحليل GIS تفاعلي لتغير استخدامات الأراضي على طريق القاهرة–الإسماعيلية، يقارن العمران والزراعة والصناعة والخدمات بين 2016 و2026.",
+    "url": "https://ismaili-application-2016-2026.vercel.app/",
+    "sourceUrl": null,
+    "tags": ["GIS", "Land use", "Cairo–Ismailia", "Transport"],
+    "featured": true,
+    "origin": "Transport",
+    "status": "live",
+    "road": "Cairo–Ismailia",
+    "screenshot": "/screenshots/ismailia-land-use-live.jpg",
+    "gallery": ["/screenshots/ismailia-land-use-live.jpg"],
+    "screenshotAudit": {
+      "state": "verified",
+      "source": "https://ismaili-application-2016-2026.vercel.app/",
+      "evidence": "Captured directly from the live Cairo–Ismailia 2016–2026 land-use comparison dashboard."
+    },
+    "startYear": 2016,
+    "completionYear": 2026
+  },
+  {
+    "id": "ismailia-land-prices-2016-2026",
+    "en": "Cairo–Ismailia Land Prices 2016–2026",
+    "ar": "تحليل أسعار الأراضي 2016–2026 — طريق القاهرة–الإسماعيلية",
+    "group": "Dashboards",
+    "sub": "Land-value analysis · Cairo–Ismailia",
+    "desc": "An interactive dashboard tracking urban, agricultural and industrial land values along the Cairo–Ismailia corridor between 2016 and 2026.",
+    "arDesc": "لوحة تفاعلية لتحليل تطور أسعار الأراضي العمرانية والزراعية والصناعية على طريق القاهرة–الإسماعيلية بين 2016 و2026.",
+    "url": "https://ismaili-application-classifications.vercel.app/prices",
+    "sourceUrl": null,
+    "tags": ["GIS", "Land value", "Cairo–Ismailia", "Analytics"],
+    "featured": true,
+    "origin": "Transport",
+    "status": "live",
+    "road": "Cairo–Ismailia",
+    "screenshot": "/screenshots/ismailia-land-prices-live.jpg",
+    "gallery": ["/screenshots/ismailia-land-prices-live.jpg"],
+    "screenshotAudit": {
+      "state": "verified",
+      "source": "https://ismaili-application-classifications.vercel.app/prices",
+      "evidence": "Captured directly from the live Cairo–Ismailia land-prices dashboard."
+    },
+    "startYear": 2016,
+    "completionYear": 2026
   }
 ]

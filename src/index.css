@@ -61,6 +61,13 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,[t
 .brand-sub { display:block;font-size:9px; color:var(--muted); letter-spacing:.18em;line-height:1.1; }
 .head-tools { display:flex;align-items:center;gap:8px; }
 .head-count { border-inline-end:1px solid var(--line); padding-inline-end:20px; margin-inline-end:5px; font:11px var(--app-font-mono); color:var(--muted); }
+.network-links { display:flex;align-items:center;gap:6px;padding-inline-end:5px;border-inline-end:1px solid var(--line); }
+.network-link { display:inline-flex;align-items:center;gap:5px;height:30px;padding:0 9px;border:1px solid var(--line);border-radius:4px;font:9px var(--app-font-mono);font-weight:700;letter-spacing:.03em;white-space:nowrap;transition:transform .16s ease,background .16s ease,border-color .16s ease,color .16s ease; }
+.network-link:hover { transform:translateY(-1px); }
+.network-link-personal { color:var(--ink);background:color-mix(in srgb,var(--paper) 82%,transparent); }
+.network-link-personal:hover { color:var(--teal);border-color:var(--teal); }
+.network-link-notaq { color:#f4f0e5;background:var(--night);border-color:var(--night); }
+.network-link-notaq:hover { color:#10221e;background:var(--teal);border-color:var(--teal); }
 .icon-button,.language-button { display:inline-flex; align-items:center; justify-content:center; gap:8px; height:38px; min-width:38px; border:1px solid var(--line); border-radius:7px; background:transparent; color:var(--ink); }
 .language-button { padding-inline:12px; font-size:11px; font-weight:700; }
 .language-switcher { display:inline-flex; align-items:center; border:1px solid var(--line); background:var(--soft); border-radius:8px; padding:3px; gap:2px; }
@@ -722,6 +729,7 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,[t
   .brand-name { font-size:9px; letter-spacing:.07em; white-space:nowrap; }
   .brand-sub { display:none; }
   .head-tools { gap:4px; }
+  .head-count,.network-links { display:none; }
   .header-archive { display:none !important; }
   .header-cta { height:32px; width:32px; padding:0; justify-content:center; font-size:9px; }
   .header-cta-label { position:absolute; width:1px; height:1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; }
