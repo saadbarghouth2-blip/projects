@@ -61,6 +61,16 @@ type Project = {
 };
 
 const categories = ['All', 'GIS', 'Dashboards', 'Platforms', 'Systems', 'Business', 'Commerce', 'Education', 'AI', 'Culture'];
+const PROJECT_PRIORITY: Record<string, number> = {
+  ainsijam: 100,
+  transport: 99,
+  'smart-infra': 98,
+  'ismailia-land-use-2016-2026': 97,
+  'ismailia-land-prices-2016-2026': 96,
+  damietta: 95,
+  'obour-city-website': 94,
+  'obour-utility-dashboards': 93,
+};
 const categoryNames: Record<string, [string, string]> = {
   All: ['All work', 'كل الأعمال'],
   GIS: ['GIS & mapping', 'نظم المعلومات الجغرافية'],
@@ -715,7 +725,9 @@ export default function App() {
         ? (lang === 'ar' ? a.ar : a.en).localeCompare(lang === 'ar' ? b.ar : b.en, lang)
         : sort === 'za'
         ? (lang === 'ar' ? b.ar : b.en).localeCompare(lang === 'ar' ? a.ar : a.en, lang)
-        : Number(b.featured) - Number(a.featured) || projects.indexOf(a) - projects.indexOf(b)
+        : (PROJECT_PRIORITY[b.id] || 0) - (PROJECT_PRIORITY[a.id] || 0) ||
+          Number(b.featured) - Number(a.featured) ||
+          projects.indexOf(a) - projects.indexOf(b)
     );
   }, [distinctProjects, projects, matches, sort, lang]);
 
@@ -788,11 +800,11 @@ export default function App() {
   const selected = projects.find(p => p.id === selectedId) || null;
 
   const featuredIds = [
+    'ainsijam',
     'transport',
+    'smart-infra',
     'ismailia-land-use-2016-2026',
     'ismailia-land-prices-2016-2026',
-    'damietta',
-    'rsg-destinations',
   ];
   const selectedFeatures = featuredIds
     .map(id => distinctProjects.find(p => p.id === id))
