@@ -194,7 +194,7 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,[t
 .project-card:hover .card-visual:after, .featured-card:hover .featured-image:after {
   left: 150%;
 }
-.card-visual img { width:100%; height:100%; object-fit:contain; object-position:center; background:#0c161d; transition:transform 0.6s cubic-bezier(0.22, 1, 0.36, 1), filter 0.6s cubic-bezier(0.22, 1, 0.36, 1); }
+.card-visual img { width:100%; height:100%; object-fit:cover; object-position:center; background:#0c161d; transition:transform 0.6s cubic-bezier(0.22, 1, 0.36, 1), filter 0.6s cubic-bezier(0.22, 1, 0.36, 1); }
 @media (hover: hover) and (pointer: fine) {
   .project-card:hover .card-visual img {
     transform: scale(1.04);
@@ -775,7 +775,7 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,[t
 .featured-card-2 { grid-column:span 5; }
 .featured-image { height:200px; position:relative; background:#0c161d; overflow:hidden; }
 .featured-card-1 .featured-image, .featured-card-2 .featured-image { height:260px; }
-.featured-image img { width:100%; height:100%; display:block; object-fit:contain; object-position:center; background:#0c161d; transition:transform 0.65s cubic-bezier(0.22, 1, 0.36, 1), filter 0.65s cubic-bezier(0.22, 1, 0.36, 1); }
+.featured-image img { width:100%; height:100%; display:block; object-fit:cover; object-position:center; background:#0c161d; transition:transform 0.65s cubic-bezier(0.22, 1, 0.36, 1), filter 0.65s cubic-bezier(0.22, 1, 0.36, 1); }
 @media (hover: hover) and (pointer: fine) {
   .featured-card:hover .featured-image img {
     transform: scale(1.03);
