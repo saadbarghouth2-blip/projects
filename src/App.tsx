@@ -763,7 +763,7 @@ export default function App() {
         : sort === 'za'
         ? (lang === 'ar' ? b.ar : b.en).localeCompare(lang === 'ar' ? a.ar : a.en, lang)
         : (PROJECT_PRIORITY[b.id] || 0) - (PROJECT_PRIORITY[a.id] || 0) ||
-          Number(b.featured) - Number(a.featured) ||
+          Number(Boolean(b.url)) - Number(Boolean(a.url)) ||
           projects.indexOf(a) - projects.indexOf(b)
     );
   }, [distinctProjects, projects, matches, sort, lang]);
