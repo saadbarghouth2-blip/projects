@@ -977,7 +977,7 @@ export default function App() {
 
           <a
             className="header-cta"
-            href="https://www.barghouth.me/contact"
+            href="https://www.barghouth.me/"
             target="_blank"
             rel="noreferrer"
             aria-label={t.contact}
@@ -1552,7 +1552,7 @@ export default function App() {
 
       {/* Floating Client Conversion Action Pill */}
       <motion.a
-        href="https://www.barghouth.me/contact"
+        href="https://www.barghouth.me/"
         target="_blank"
         rel="noreferrer"
         initial={{ opacity: 0, y: 20 }}
