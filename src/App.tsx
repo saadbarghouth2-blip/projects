@@ -411,7 +411,6 @@ function ProjectCard({
         </div>
 
         <div className="card-footer">
-          <span className="project-number">N / {String(index + 1).padStart(2, '0')}</span>
           <div className="card-actions">
             <button
               className="card-action details-action"
@@ -832,8 +831,6 @@ export default function App() {
     setLanguage(lang === 'en' ? 'ar' : 'en');
   };
 
-  const liveCount = distinctProjects.filter(p => p.status === 'live' && !!p.url).length;
-  const verifiedScreensCount = distinctProjects.filter(p => p.screenshotAudit?.state === 'verified').length;
   const selected = projects.find(p => p.id === selectedId) || null;
 
   const featuredIds = [
@@ -875,11 +872,6 @@ export default function App() {
         </a>
 
         <div className="head-tools">
-          <span className="head-count" data-testid="text-catalog-count">
-            <strong className="text-[var(--teal)] font-bold">{distinctProjects.length}</strong>{' '}
-            {t.count}
-          </span>
-
           <div className="network-links" aria-label={lang === 'ar' ? 'روابط المواقع الرسمية' : 'Official websites'}>
             <a
               className="network-link network-link-personal"
@@ -1138,10 +1130,6 @@ export default function App() {
 
         {/* Enterprise Credibility Stats Bar with Live Counter */}
         <StatsBar
-          totalProjects={distinctProjects.length}
-          liveCount={liveCount}
-          verifiedScreensCount={verifiedScreensCount}
-          sectorsCount={categories.length - 1}
           liveOnly={liveOnly}
           onToggleLive={() => setLiveOnly(v => !v)}
           lang={lang}
@@ -1381,8 +1369,8 @@ export default function App() {
           <div className="result-line">
             <span>
               {filtered
-                ? (lang === 'ar' ? `${shown.length} مشاريع مطابقة للتصفية` : `${shown.length} matching filtered projects`)
-                : `${distinctProjects.length} ${t.results}`}
+                ? (lang === 'ar' ? 'مشاريع مطابقة للتصفية' : 'Filtered projects')
+                : (lang === 'ar' ? 'كل مشاريع الأرشيف' : 'All archive projects')}
             </span>
             {filtered ? (
               <button
@@ -1394,9 +1382,7 @@ export default function App() {
                 {t.reset} ×
               </button>
             ) : (
-              <span>
-                <strong className="text-[var(--teal)]">{liveCount}</strong> {t.available}
-              </span>
+              <span>{lang === 'ar' ? 'روابط مباشرة متاحة' : 'Live links available'}</span>
             )}
           </div>
 
